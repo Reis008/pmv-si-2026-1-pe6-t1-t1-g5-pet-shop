@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Os animais de estimação estão cada vez mais sendo considerados parte da família, o que aumenta a busca por serviços de qualidade em pet shops. Com esse crescimento, surge a necessidade de organizar melhor clientes, agendamentos e serviços como banho e tosa.Muitos estabelecimentos ainda enfrentam problemas como desorganização, falhas nos agendamentos e dificuldade no controle das informações. Para resolver isso, o projeto propõe o desenvolvimento de um sistema distribuído que integra clientes, serviços e horários em tempo real, facilitando a gestão do negócio.O objetivo é tornar o funcionamento do pet shop mais eficiente, reduzir erros e melhorar o atendimento. A justificativa do projeto está no crescimento do setor pet e na necessidade de oferecer um serviço mais organizado e moderno.Nosso público-alvo são proprietários e funcionários de pet shops que desejam melhorar a administração do estabelecimento, além dos tutores de animais que buscam um atendimento mais ágil e de qualidade.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -55,7 +55,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-001| Cadastro e login de funcionarios | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 ### Requisitos não Funcionais
